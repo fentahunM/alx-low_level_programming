@@ -4,17 +4,18 @@
 
 
 
-/**
+/*
  *
- *  *main - prints a string
+ *main - prints a string
  *
- *   *
  *
- *    * puts appends a trailing new line automatically
  *
- *     *Return: 0(Success)
+ * puts appends a trailing new line automatically
  *
- *      */
+ *Return: 0(Success)
+ *
+ *
+ */
 
 int main(void)
 
