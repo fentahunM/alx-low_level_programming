@@ -1,4 +1,4 @@
-lude <stdio.h>
+#include <stdio.h>
 /**
  * main - prints a string
  * Return: 0(Success)
